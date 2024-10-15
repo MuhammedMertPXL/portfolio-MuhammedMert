@@ -6,8 +6,8 @@
 
 # Portfolio Werkplekleren 1
 
-## Werkplekbegeleiders sept - jan 2023
-Guido Frissaer - Marlies Dens - Ludwig Vaes
+## Werkplekbegeleiders sept '24 - jan '25
+Guido Frissaer - Marlies Dens - Kathleen Hombroeks
 
 ## Opleidingscoördinator
 Hans Roeyen
