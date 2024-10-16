@@ -5,7 +5,7 @@
 * Reflecteer over één van de POP-sessies die je hebt gevolgd tijdens de lessen van WPL1 (motivatie / reflecteren / plannen en zelfsturing / autonomie en verantwoordelijkheid / personal branding). Beantwoord hiervoor de volgende vragen:
    - Wat heb je bijgeleerd tijdens deze POP-sessie?
    - Hoe kan je de leerstof uit deze sessie implementeren in je dagelijkse leven als systeem- en netwerkbeheerder?
-* Gebruik de AIM-methode die je hebt geleerd tijdens de POP-sessie over reflecteren om hier te reflecteren over één van de opdrachten die je hebt gemaakt tijdens WPL1. Wat ging goed / Wat ging minder goed / Wat zijn de belangrijkse inzichten / Wie of wat verdient waardering? 
+* Gebruik de AIM-methode die je hebt geleerd tijdens de POP-sessie over reflecteren om hier te reflecteren over één van de opdrachten die je hebt gemaakt tijdens WPL1. Wat ging goed / Wat ging minder goed / Wat zijn de belangrijkste inzichten / Wie of wat verdient waardering? 
 
 
 ### Slotevaluatie
