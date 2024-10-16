@@ -26,10 +26,11 @@ te werken en te posten.
 je leerproces op basis van je persoonlijke ontwikkeling.
 * Je portfolio wordt meegenomen als onderdeel van het evaluatie van je werkplekleren.
 
-In deze nota vind je een sjabloon voor je portfolio tijdens Werkplekleren 1.
-* De zaken in een gewoon font kan je copy/pasten.
-* De zinnen in cursief geven extra uitleg en copieer je niet naar je portfolio.
-
+In deze wiki vind je een sjabloon voor je portfolio tijdens Werkplekleren 1.
+* Bepaalde zaken kan je gewoon overnemen
+* Sommige delen tekst geven extra uitleg en deze neem je niet over in je portfolio. Gebruik hierbij je gezond verstand.
+  
+### **INHOUD ONDERDEEL INTRO:**
 Je portfolio bevat een **introductie**” die bestaat uit 2 delen:
 * Een inleiding. Die schrijf je zelf. Vat daarin in je eigen woorden samen wat een portfolio is en
 hoe het zal gebruikt worden bij je studie (je baseert je op de uitleg hierboven).
