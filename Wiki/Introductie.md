@@ -32,7 +32,7 @@ In deze nota vind je een sjabloon voor je portfolio tijdens Werkplekleren 1.
 
 Je portfolio bevat een **introductie**” die bestaat uit 2 delen:
 * Een inleiding. Die schrijf je zelf. Vat daarin in je eigen woorden samen wat een portfolio is en
-hoe het zal gebruikt worden bij je studie (je baseert je op de slides en de uitleg hierboven).
+hoe het zal gebruikt worden bij je studie (je baseert je op de uitleg hierboven).
 * In een tweede sectie voeg je je persoonlijke info toe. Doe dit in de vorm van een eerste versie
 van je CV. Tijdens werkplekleren 2 en in het tweede jaar zal je je CV nog regelmatig kunnen
 aanpassen en een nieuwe versie in je portfolio opnemen.
@@ -45,13 +45,15 @@ Je vult uiteraard alleen in wat voor jou van toepassing is.
 - Naam, leeftijd
 - (optioneel: dit hoef je niet met ons te delen maar zet je later wel op je CV:
 Adres en telefoonnummer)
-- E-mail adres
+- Foto 
+- E-mailadres
 - Behaalde diploma’s middelbare school, ev. hoger onderwijs, bijkomend onderwijs
 - Behaalde certificaten en gevolgde cursussen die relevant zijn
+- soft skills / hard skills
 - Werkervaringen: periode, werkgever, functie/opdracht
 - Relevant vrijwilligerswerk (nuttige ervaring)
 - Hobby’s
 
 Dit wordt later tijdens je studie aangepast en aangevuld. Pas de tips toe die je nu al kent.
 
-Hoe een goed CV te maken komt ook aan bod in het vak Communication skills.
+Hoe een goed CV te maken komt ook aan bod in het vak Communication Skills.
