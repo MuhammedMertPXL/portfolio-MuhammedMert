@@ -11,5 +11,5 @@ kwaliteiten en ontwikkeling, gastcolleges gevolgd en kleine technische opdrachte
 
 
 ### **Planning WPL1:**
-**De planning van WPL1** is elk jaar anders en kan je vinden op Blackboard bij studiewijzer. Voeg deze
+**De planning van WPL1** is elk jaar anders en kan je vinden op Blackboard in de map 'Studiegids en planning'. Voeg deze
 planning hier toe in het logboek. Presenteer dit op een overzichtelijke en verzorgde manier.
