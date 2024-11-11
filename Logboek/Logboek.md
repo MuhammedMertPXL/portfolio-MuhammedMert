@@ -2,15 +2,6 @@
 
 ## Logboek WPL 1
 
-
-​
-
-​Lesweken
-
-​On campus
-
-​Zelfstudie
-
 Week 1​: 17/9
 
 ​Les 1
