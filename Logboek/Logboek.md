@@ -27,7 +27,6 @@ testen oriënteringstraject invullen
 POP: Personal branding
 POP: Planning
 
-
 taak: planning
 
 ​​Week 4: 8/10
@@ -57,11 +56,6 @@ Intro GitHub
 ​Taak: aanmaken portfolio
 
 ​​Herfstvakantie
-
-​
-
-​
-
 ​
 
 ​​Week 7: 5/11
@@ -131,7 +125,6 @@ Reminder portfolio + feedback tijdens kerstverlof
 Afwerken portfolio
 Activiteit
 ​Deadline portfolio
-
 
 
 ## Logboek WPL 2
