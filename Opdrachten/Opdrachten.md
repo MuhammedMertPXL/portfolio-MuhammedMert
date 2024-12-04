@@ -13,6 +13,7 @@ Intressant en waarom?
 
 Best of mijn opdrachten:
 - Planning en zelfsturing deed ik best wel goed, ik kan me goed inschatten wat heel belangrijk is en wat niet. Ik kan me dan goed inplannen voor de werking.
+  
   ![image](https://github.com/user-attachments/assets/22b072cb-bd9c-4d51-b25f-0f855df78ad0)
 
 - Computerbouwen hebben we best wel goed gedaan, we konden dit verdelen in taken binnen ons groep en dit hebben we goed toegepast.
