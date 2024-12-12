@@ -2,129 +2,282 @@
 
 ## Logboek WPL 1
 
-Week 1​: 17/9
-
-​Les 1
-
-​Introductie
-POP: Motiveren/waarden/ reflecteren/X-factor
-naamgevingen
-Taak: reflecteren​
-
-​Week 2: 24/9
-
-Les 2
-
-Introductie oriënteringstraject: taal/lemo/kyss testen
-Talstelsels
-testen oriënteringstraject invullen
-
-​Week 3: 1/2
-
-​Les 3
-
-​Gastspreker + reflectie
-POP: Personal branding
-POP: Planning
-
-taak: planning
-
-​​Week 4: 8/10
-
-​Les 4
-
-Test Talstelsels
-Analyse Arbeidsmarkt
-taak: carrièrekompas
-
-​​Week 5: 15/10
-
-​Les 5 - Online
-
-Persoonlijke ontwikkeling:
-Verantwoordelijkheid en zelfstandigheid
-X-factor + online-leerpad
-Intro GitHub
-​Taak: intro to GitHub
-
-​​Week 6: 22/10
-
-​Les 6
-
-​​Uitleg portfolio
-​Gastspreker + reflectie
-​Taak: aanmaken portfolio
-
-​​Herfstvakantie
-​
-
-​​Week 7: 5/11
-
-​Les 7
-
-​​ChatGPT
-Ethisch denken, aansprakelijkheid
-Intro: opdracht ethiek
-​Taak: Ethiek
-
-​​Week 8: 12/11
-
-​Les 8
-
-​​Gastspreker + reflectie
-Intro computerbouwen
-Documenteren
-​Taak: voorbereiden computerbouwen
-
-​​Week 9: 19/11
-
-​Les 9
-
-​​Computer bouwen
-Bezoek serverruimte
-​Taak: afwerken computerbouwen
-
-​​Week 10: 26/11
-
-​Les 10
-
-​​SDG's
-Advent
-Security awereness
-Actualiteit voorbereiden
-​Taak: voorbereiden actualiteit
-
-​​Week 11: 3/12
-
-​Les 11
-
-​​Afwerken taak actualiteit + presentaties
-​Presentatie Actualiteit
-
-​​Week 12: 10/12
-
-​Les 12
-
-​​Netwerkdag
-​Taak: netwerken
-
-​​Week 13: 17/12
-
-​Les 13
-
-​​Gastspreker + reflectie
-Test WPL
-Reminder portfolio + feedback tijdens kerstverlof
-​
-
-​​Week 14: 14/1
-
-​Les 14
-
-​​Uitleg Corda Campus
-Afwerken portfolio
-Activiteit
-​Deadline portfolio
+<table>
+    <tr>
+    <td>
+        <p>​</p>
+    </td>
+    <td>
+        <p>​Lesweken</p>
+    </td>
+    <td >
+        <p>​On campus</p>
+    </td>
+    <td >
+        <p>​Zelfstudie</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>Week 1​: 17/9</p>
+    </td>
+    <td >
+        <p>​Les 1</p>
+    </td>
+    <td >
+        <ul>
+            <li>​Introductie</li>
+            <li>POP: Motiveren/waarden/ reflecteren/X-factor</li>
+            <li>naamgevingen</li>
+        </ul>
+    </td>
+    <td >
+        <p>Taak: reflecteren​</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​Week 2: 24/9</p>
+    </td>
+    <td >
+        <p>Les 2</p>
+    </td>
+    <td >
+        <ul>
+            <li><strong style="color: rgb(231, 34, 24);">Introductie oriënteringstraject: taal/lemo/kyss testen</strong></li>
+            <li>Talstelsels</li>
+        </ul>
+    </td>
+    <td >
+        <p>testen oriënteringstraject invullen</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​Week 3: 1/2</p>
+    </td>
+    <td >
+        <p>​Les 3</p>
+    </td>
+    <td >
+        <ul>
+            <li>​Gastspreker <strong style="color: rgb(231, 34, 24);">+ reflectie</strong></li>
+            <li>POP: Personal branding</li>
+            <li>POP: Planning</li>
+        </ul>
+    </td>
+    <td >
+        <p><br></p>
+        <p>taak: planning</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 4: 8/10</p>
+    </td>
+    <td >
+        <p>​Les 4</p>
+    </td>
+    <td >
+        <ul>
+            <li><strong style="color: rgb(231, 34, 24);">Test Talstelsels</strong></li>
+            <li>Analyse Arbeidsmarkt</li>
+        </ul>
+    </td>
+    <td >
+        <p>taak: carrièrekompas</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 5: 15/10</p>
+    </td>
+    <td >
+        <p>​Les 5 - <strong style="color: rgb(231, 34, 24);">Online</strong></p>
+    </td>
+    <td >
+        <ul>
+            <li>Persoonlijke ontwikkeling:</li>
+            <li class="ql-indent-1">Verantwoordelijkheid en zelfstandigheid</li>
+            <li class="ql-indent-1">X-factor + online-leerpad</li>
+            <li>Intro GitHub</li>
+        </ul>
+    </td>
+    <td >
+        <p>​Taak: intro to GitHub</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 6: 22/10</p>
+    </td>
+    <td >
+        <p>​Les 6</p>
+    </td>
+    <td >
+        <ul>
+            <li><strong style="color: rgb(231, 34, 24);">​​Uitleg portfolio</strong></li>
+            <li>​Gastspreker<strong style="color: rgb(231, 34, 24);"> + reflectie</strong></li>
+        </ul>
+    </td>
+    <td >
+        <p>​Taak: aanmaken portfolio</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Herfstvakantie</p>
+    </td>
+    <td >
+        <p>​</p>
+    </td>
+    <td >
+        <p>​</p>
+    </td>
+    <td >
+        <p>​</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 7: 5/11</p>
+    </td>
+    <td >
+        <p>​Les 7</p>
+    </td>
+    <td >
+        <ul>
+            <li>​​ChatGPT</li>
+            <li>Ethisch denken, aansprakelijkheid</li>
+            <li>Intro: opdracht ethiek</li>
+        </ul>
+    </td>
+    <td >
+        <p>​Taak: Ethiek</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 8: 12/11</p>
+    </td>
+    <td >
+        <p>​Les 8</p>
+    </td>
+    <td >
+        <ul>
+            <li>​​Gastspreker + <strong style="color: rgb(231, 34, 24);">reflectie</strong></li>
+            <li>Intro computerbouwen</li>
+        </ul>
+    </td>
+    <td >
+        <p>​Taak: voorbereiden computerbouwen</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 9: 19/11</p>
+    </td>
+    <td >
+        <p>​Les 9</p>
+    </td>
+    <td >
+        <ul>
+            <li><strong style="color: rgb(231, 34, 24);">​​Computer bouwen</strong></li>
+            <li>Bezoek serverruimte</li>
+        </ul>
+    </td>
+    <td >
+        <p>​Taak: afwerken computerbouwen</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 10: 26/11</p>
+    </td>
+    <td >
+        <p>​Les 10</p>
+    </td>
+    <td >
+        <ul>
+            <li>​​SDG's</li>
+            <li>Advent</li>
+            <li>Security awereness</li>
+            <li>Actualiteit voorbereiden</li>
+        </ul>
+    </td>
+    <td >
+        <p>​Taak: voorbereiden actualiteit</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 11: 3/12</p>
+    </td>
+    <td >
+        <p>​Les 11</p>
+    </td>
+    <td >
+        <ul>
+            <li>​​Afwerken taak actualiteit + <strong style="color: rgb(231, 34, 24);">presentaties</strong></li>
+        </ul>
+    </td>
+    <td >
+        <p>​Presentatie Actualiteit</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 12: 10/12</p>
+    </td>
+    <td >
+        <p>​Les 12</p>
+    </td>
+    <td >
+        <ul>
+            <li>​​Netwerkdag</li>
+        </ul>
+    </td>
+    <td >
+        <p>​Taak: netwerken</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 13: 17/12</p>
+    </td>
+    <td >
+        <p>​Les 13</p>
+    </td>
+    <td >
+        <ul>
+            <li>​​Gastspreker<strong style="color: rgb(231, 34, 24);"> + reflectie</strong></li>
+            <li><strong style="color: rgb(231, 34, 24);">Test WPL</strong></li>
+            <li>Reminder portfolio + feedback tijdens kerstverlof</li>
+        </ul>
+    </td>
+    <td >
+        <p>​</p>
+    </td>
+    </tr>
+    <tr >
+    <td >
+        <p>​​Week 14: 14/1</p>
+    </td>
+    <td >
+        <p>​Les 14</p>
+    </td>
+    <td >
+        <ul>
+            <li>​​Uitleg Corda Campus</li>
+            <li>Afwerken portfolio</li>
+            <li>Activiteit</li>
+        </ul>
+    </td>
+    <td >
+        <p>​Deadline portfolio</p>
+    </td>
+    </tr>
+</table>
 
 
 ## Logboek WPL 2
