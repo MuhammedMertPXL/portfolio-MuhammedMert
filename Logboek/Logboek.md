@@ -4,7 +4,7 @@
 
 Werkplekleren is een belangrijk onderdeel in de studie van Graduaat Systemen en Netwerken.
 
-![image](https://github.com/user-attachments/assets/e421d687-979f-4e90-bde5-b5bdef153090)
+![image](https://github.com/user-attachments/assets/1265ae5a-09f0-4d02-b346-8cdf1ac1f78a)
 
 
 Het doel van WPL1 was oriëntering en kennismaken met het werkveld.
