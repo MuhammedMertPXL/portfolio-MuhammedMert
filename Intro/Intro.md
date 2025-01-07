@@ -30,8 +30,4 @@ Hobby's: voetballlen, kickboksen.
 
 Curriculum Vitae
 
-![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-MuhammedMertPXL/blob/main/Intro/Muhammed%20Baki%20Mert..pdf)
-
-
-<div id="layout-container" style="opacity: 1; display: block; width: 803px; height: 2268px; top: 45px; transform: scale(1) translate(354px, 0px);"><div id="pagediv_0" class="pagerect" style="left: 5px; top: 3px; width: 793px; height: 1122px; --shadow-clip-rect: -3px -5px -7px -5px; background-image: url(&quot;blob:chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/fa14b119-0583-436d-a75c-f0fea1a11b8f&quot;);"></div><div id="pagediv_1" class="pagerect" style="left: 5px; top: 1139px; width: 793px; height: 1122px; --shadow-clip-rect: -3px -5px -7px -5px; background-image: url(&quot;blob:chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/ebfc2877-cef7-48d3-9b1f-a9a52c7f752a&quot;);"></div></div>
 
