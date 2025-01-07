@@ -1,8 +1,8 @@
 # Opdrachten
 ## Opdrachten WPL 1
 
-**Kort overzicht van alle opdrachten
-**
+**Kort overzicht van alle opdrachten**
+
 Tijdens het semester hebben we verschillende opdrachten uitgevoerd die ons zowel technisch als persoonlijk hebben uitgedaagd. Hieronder volgt een overzicht van deze opdrachten en hun belangrijkste leerdoelen:
 
 1. AIM-reflectie
