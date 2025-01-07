@@ -1,10 +1,13 @@
 # Overzicht Ontwikkelingsgesprekken
 
 ## Overzicht ontwikkelingsgesprekken WPL 1
+
 Mijn keuze: 
+
 Ik heb gekozen voor de opleiding Systeem- en Netwerkbeheer omdat ik al van jongs af aan een grote interesse heb in technologie en het functioneren van systemen. Deze interesse werd verder aangewakkerd door mijn jongere broer, die in dit vakgebied is afgestudeerd. Hij heeft me laten zien hoe uitdagend en veelzijdig dit werk kan zijn, en zijn succes heeft me geïnspireerd om dezelfde richting op te gaan. Ik wil mezelf ontwikkelen in een vakgebied dat steeds belangrijker wordt en waarin ik mijn passie voor techniek en probleemoplossing kan combineren.
 
 Mijn beeld van dit beroep:
+
 Mijn beeld van het beroep Systeem- en Netwerkbeheer is dat het een dynamisch en verantwoordelijk vakgebied is. Het omvat het opzetten, onderhouden en beveiligen van IT-systemen, die cruciaal zijn voor het functioneren van bedrijven en organisaties. Dit hebben we uitgebreid besproken tijdens WPL1. Het is een beroep waarin je voortdurend nieuwe uitdagingen tegenkomt, technische problemen oplost en systemen optimaliseert. Ik zie het als een kans om een essentiële rol te spelen in een steeds verder digitaliserende wereld, waar betrouwbaarheid en innovatie centraal staan.
 
 Mijn evolutie:
