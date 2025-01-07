@@ -30,7 +30,7 @@ Hobby's: voetballlen, kickboksen.
 
 Curriculum Vitae
 
-<img src="../images/image001.png" style="width: 200px; height: 200px;" />
+![alt-tekst](../images/image001.png)
 
 [CV bekijken](CV.pdf)
  
