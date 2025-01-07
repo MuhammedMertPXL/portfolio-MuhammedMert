@@ -64,29 +64,39 @@ De opgedane kennis over netwerkconfiguratie, serverbeheer en beveiliging is dire
 Door praktische opdrachten en projecten tijdens de opleiding krijg ik de kans om routine te ontwikkelen in het gebruik van tools en technieken. Denk hierbij aan het opzetten en beheren van netwerken, het implementeren van firewalls en het waarborgen van beveiliging. Deze hands-on ervaring helpt mij om mijn theoretische kennis om te zetten in praktische vaardigheden die ik dagelijks kan toepassen in mijn toekomstige rol als systeem- en netwerkbeheerder.
 
 
-AIM-methode
-- Wat ging goed?
+**AIM-methode**
 
-Planning en zelfsturing ging vooral goed omdat ik me goed kan inplannen en zelfsturen.
-- Wat ging minder goed?
+**Wat ging goed?**
 
-Reflectie. Ik kan me niet goed inschatten hoe ik dit moest uitgelegd krijgen.
-- Wat zijn de belangrijkste inzichten?
-Autonomie en verantwoordelijkheid. Het is belangrijk om verantwoordelijk te zijn in de systeem en netwerkbeheren van bedrijven.
+Planning en zelfsturing verliepen goed. Ik ben sterk in het opstellen van een plan en het organiseren van mijn taken, wat ervoor zorgt dat ik mijn tijd effectief benut. Dit helpt me om deadlines te halen en een gestructureerde aanpak te hanteren bij zowel mijn studie als mijn projecten.
 
-Slotevaluatie
-- Wat weet je al over de soort van job die je later wil uitoefenen?
+**Wat ging minder goed?**
 
-Ik weet dat het werk van een systeem- en netwerkbeheerder draait om het waarborgen van de stabiliteit, veiligheid en efficiëntie van IT-systemen en netwerken. Het is een verantwoordelijke functie waarin je problemen oplost, systemen onderhoudt en nieuwe technologieën implementeert.
-- Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
+Reflectie blijft een punt van aandacht. Ik vind het lastig om kritisch naar mijn eigen werk te kijken en te beoordelen wat beter kan. Hierdoor mis ik soms de kans om waardevolle lessen te trekken uit mijn ervaringen. Ik heb moeite met het vertalen van mijn ideeën naar concrete verbeterpunten en zou graag leren hoe ik hier beter in kan worden.
 
-Netwerkbeheerder
-- Welk inzicht heeft WPL1 jou gebracht?
+**Wat zijn de belangrijkste inzichten?**
 
-Meer kennis op het werkplek.
-- Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
+De kerninzichten die ik heb opgedaan, zijn het belang van autonomie en verantwoordelijkheid in mijn toekomstige werk als systeem- en netwerkbeheerder. Het beheren van IT-systemen en netwerken vraagt om een proactieve houding, waarbij je zelf beslissingen neemt en verantwoordelijk bent voor de stabiliteit, beveiliging en efficiëntie van bedrijfskritische systemen. Verder heb ik geleerd dat een gestructureerde aanpak en duidelijke communicatie essentieel zijn om effectief samen te werken en problemen op te lossen in een professionele omgeving.
 
-Het werkplek zelf, hoe is het om als systeem en netwerkbeheerder aan de slag te gaan.
+
+**Slotevaluatie**
+
+**Wat weet je al over de soort job die je later wil uitoefenen?**
+
+Ik weet dat het werk van een systeem- en netwerkbeheerder draait om het waarborgen van de continuïteit, veiligheid en efficiëntie van IT-infrastructuren. Het is een dynamische functie waarin je verantwoordelijk bent voor het configureren, onderhouden en beveiligen van systemen en netwerken. Daarnaast speel je een belangrijke rol bij het oplossen van technische problemen en het implementeren van nieuwe technologieën om bedrijfsprocessen te verbeteren. Ook is het belangrijk om op de hoogte te blijven van nieuwe trends en ontwikkelingen binnen de IT-sector, zoals cloudcomputing, virtualisatie en cybersecurity.
+
+**Waarover zou je nog wel een gastseminarie willen tijdens WPL2?**
+
+Ik zou graag een gastseminarie willen over geavanceerd netwerkbeheer, specifiek gericht op onderwerpen zoals netwerkautomatisering, het beheren van complexe infrastructuren en het implementeren van netwerkbeveiligingsstrategieën. Daarnaast zou een sessie over praktijkvoorbeelden van grote IT-projecten inspirerend zijn, vooral hoe bedrijven omgaan met uitdagingen zoals downtime, cyberaanvallen en het migreren van systemen.
+
+**Welk inzicht heeft WPL1 jou gebracht?**
+
+WPL1 heeft mij een breder inzicht gegeven in de dagelijkse realiteit van het werken als systeem- en netwerkbeheerder. Door de verhalen van gastsprekers en praktijkervaringen heb ik beter begrip gekregen van wat er nodig is om succesvol te zijn in dit vakgebied. Ik heb geleerd dat naast technische vaardigheden ook soft skills zoals teamwork, communicatie en probleemoplossend denken cruciaal zijn.
+
+**Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?**
+
+In WPL2 hoop ik een dieper inzicht te krijgen in hoe het is om daadwerkelijk op de werkvloer te functioneren als systeem- en netwerkbeheerder. Ik wil leren hoe ervaren professionals omgaan met stressvolle situaties, zoals het oplossen van urgente IT-problemen of het beheren van grootschalige projecten. Mijn voornemen is om actief te blijven leren, zowel van mijn fouten als van mijn successen, en om mijn vaardigheden verder te verfijnen. Ik wil mijn technische kennis uitbreiden en tegelijkertijd mijn reflectieve en analytische vaardigheden verbeteren, zodat ik sterker in mijn schoenen sta als toekomstige IT-professional.
+
 
 ## Reflectie WPL 2
 
