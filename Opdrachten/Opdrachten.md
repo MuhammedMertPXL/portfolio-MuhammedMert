@@ -1,22 +1,108 @@
 # Opdrachten
 ## Opdrachten WPL 1
-Kort overzicht van alle opdrachten.
-- AIM-reflectie: Link leggen tussen de reflectie en de eigen kernwaarden.
-- Planning en zelfsturing: Onderscheid leggen tussen de deadline en minder belangrijke taken. Agenda opstellen.
-- Test Talstelsels: We hebben een test afgelegd van de talstelsels.
-- Carrièrekompas: We moesten aangeven wat ons doel was en wat we al verwachten van ons eigen.
-- Computerbouwen: We moesten in groepswerk een computer in elkaar steken en dit moesten we overleggen met ons groep.
-- Actualiteit: We moesten een schriftelijk en presentatie kunnen voorleggen in een groepswerk. We moesten een stelling uitleggen en presenteren.
 
-Intressant en waarom?
-- Computerbouwen vond ik best wel interessant. Je moest praktisch iets uitvoeren en dit werd gedaan in een groep. Je kon leren van je klasgenoten.
+Kort overzicht van alle opdrachten
 
-Best of mijn opdrachten:
-- Planning en zelfsturing deed ik best wel goed, ik kan me goed inschatten wat heel belangrijk is en wat niet. Ik kan me dan goed inplannen voor de werking.
-  
-  ![image](https://github.com/user-attachments/assets/22b072cb-bd9c-4d51-b25f-0f855df78ad0)
+Tijdens het semester hebben we verschillende opdrachten uitgevoerd die ons zowel technisch als persoonlijk hebben uitgedaagd. Hieronder volgt een overzicht van deze opdrachten en hun belangrijkste leerdoelen:
 
-- Computerbouwen hebben we best wel goed gedaan, we konden dit verdelen in taken binnen ons groep en dit hebben we goed toegepast.
+1. AIM-reflectie
+
+In deze opdracht moesten we een reflectie maken waarin we een verband legden tussen onze eigen kernwaarden en wat we tijdens de opleiding hebben geleerd. Het hielp ons om bewust te worden van onze persoonlijke drijfveren en hoe deze ons richting geven in onze studie en loopbaan.
+
+2. Planning en zelfsturing
+
+Het doel van deze opdracht was om onderscheid te leren maken tussen prioriteiten en minder belangrijke taken. We leerden hoe we een effectieve planning konden opstellen en onze tijd efficiënter konden indelen. Het maken van een agenda en het volgen van deadlines stond hierbij centraal.
+
+3. Test Talstelsels
+
+Deze test richtte zich op ons begrip van talstelsels, een essentieel onderdeel van systeem- en netwerkbeheer. We moesten onze kennis van verschillende talstelsels, zoals binair, decimaal en hexadecimaal, toepassen in praktijkgerichte vragen.
+
+4. Carrièrekompas
+
+In deze opdracht reflecteerden we op onze carrièredoelen. We moesten aangeven wat we wilden bereiken in ons vakgebied en wat we verwachtten van onze professionele toekomst. Dit gaf ons de kans om een duidelijker beeld te vormen van onze ambities en de stappen die nodig zijn om deze te realiseren.
+
+5. Computerbouwen
+
+Tijdens deze groepsopdracht werkten we samen om een computer in elkaar te zetten. Dit vereiste niet alleen technische kennis, maar ook overleg en taakverdeling binnen de groep. Het was een praktische en hands-on ervaring waarin samenwerking centraal stond.
+
+6. Actualiteit
+
+In deze opdracht moesten we in groepsverband een stelling analyseren en presenteren. Het omvatte zowel een schriftelijk verslag als een mondelinge presentatie. Het doel was om actuele thema’s kritisch te bespreken, onze standpunten te onderbouwen en deze op een duidelijke manier te communiceren.
+
+
+Hier is een uitgebreide en beter geformuleerde versie van je tekst:
+
+Kort overzicht van alle opdrachten
+Tijdens het semester hebben we verschillende opdrachten uitgevoerd die ons zowel technisch als persoonlijk hebben uitgedaagd. Hieronder volgt een overzicht van deze opdrachten en hun belangrijkste leerdoelen:
+
+AIM-reflectie
+In deze opdracht moesten we een reflectie maken waarin we een verband legden tussen onze eigen kernwaarden en wat we tijdens de opleiding hebben geleerd. Het hielp ons om bewust te worden van onze persoonlijke drijfveren en hoe deze ons richting geven in onze studie en loopbaan.
+
+Planning en zelfsturing
+Het doel van deze opdracht was om onderscheid te leren maken tussen prioriteiten en minder belangrijke taken. We leerden hoe we een effectieve planning konden opstellen en onze tijd efficiënter konden indelen. Het maken van een agenda en het volgen van deadlines stond hierbij centraal.
+
+Test Talstelsels
+Deze test richtte zich op ons begrip van talstelsels, een essentieel onderdeel van systeem- en netwerkbeheer. We moesten onze kennis van verschillende talstelsels, zoals binair, decimaal en hexadecimaal, toepassen in praktijkgerichte vragen.
+
+Carrièrekompas
+In deze opdracht reflecteerden we op onze carrièredoelen. We moesten aangeven wat we wilden bereiken in ons vakgebied en wat we verwachtten van onze professionele toekomst. Dit gaf ons de kans om een duidelijker beeld te vormen van onze ambities en de stappen die nodig zijn om deze te realiseren.
+
+Computerbouwen
+Tijdens deze groepsopdracht werkten we samen om een computer in elkaar te zetten. Dit vereiste niet alleen technische kennis, maar ook overleg en taakverdeling binnen de groep. Het was een praktische en hands-on ervaring waarin samenwerking centraal stond.
+
+Actualiteit
+In deze opdracht moesten we in groepsverband een stelling analyseren en presenteren. Het omvatte zowel een schriftelijk verslag als een mondelinge presentatie. Het doel was om actuele thema’s kritisch te bespreken, onze standpunten te onderbouwen en deze op een duidelijke manier te communiceren.
+
+Wat vond ik interessant en waarom?
+
+Van alle opdrachten vond ik Computerbouwen het meest interessant. Het was een praktische opdracht waarin we iets tastbaars konden maken. Het samenwerken in een groep was een belangrijk aspect, omdat we van elkaar konden leren en elkaars sterke punten konden benutten. Het proces van het samenstellen van een computer gaf me een goed inzicht in hoe de verschillende componenten samenwerken om een functionerend systeem te vormen. Dit praktische element maakte de opdracht zowel leerzaam als leuk.
+
+
+Hier is een uitgebreide en beter geformuleerde versie van je tekst:
+
+Kort overzicht van alle opdrachten
+Tijdens het semester hebben we verschillende opdrachten uitgevoerd die ons zowel technisch als persoonlijk hebben uitgedaagd. Hieronder volgt een overzicht van deze opdrachten en hun belangrijkste leerdoelen:
+
+AIM-reflectie
+In deze opdracht moesten we een reflectie maken waarin we een verband legden tussen onze eigen kernwaarden en wat we tijdens de opleiding hebben geleerd. Het hielp ons om bewust te worden van onze persoonlijke drijfveren en hoe deze ons richting geven in onze studie en loopbaan.
+
+Planning en zelfsturing
+Het doel van deze opdracht was om onderscheid te leren maken tussen prioriteiten en minder belangrijke taken. We leerden hoe we een effectieve planning konden opstellen en onze tijd efficiënter konden indelen. Het maken van een agenda en het volgen van deadlines stond hierbij centraal.
+
+Test Talstelsels
+Deze test richtte zich op ons begrip van talstelsels, een essentieel onderdeel van systeem- en netwerkbeheer. We moesten onze kennis van verschillende talstelsels, zoals binair, decimaal en hexadecimaal, toepassen in praktijkgerichte vragen.
+
+Carrièrekompas
+In deze opdracht reflecteerden we op onze carrièredoelen. We moesten aangeven wat we wilden bereiken in ons vakgebied en wat we verwachtten van onze professionele toekomst. Dit gaf ons de kans om een duidelijker beeld te vormen van onze ambities en de stappen die nodig zijn om deze te realiseren.
+
+Computerbouwen
+Tijdens deze groepsopdracht werkten we samen om een computer in elkaar te zetten. Dit vereiste niet alleen technische kennis, maar ook overleg en taakverdeling binnen de groep. Het was een praktische en hands-on ervaring waarin samenwerking centraal stond.
+
+Actualiteit
+In deze opdracht moesten we in groepsverband een stelling analyseren en presenteren. Het omvatte zowel een schriftelijk verslag als een mondelinge presentatie. Het doel was om actuele thema’s kritisch te bespreken, onze standpunten te onderbouwen en deze op een duidelijke manier te communiceren.
+
+Wat vond ik interessant en waarom?
+
+Van alle opdrachten vond ik Computerbouwen het meest interessant. Het was een praktische opdracht waarin we iets tastbaars konden maken. Het samenwerken in een groep was een belangrijk aspect, omdat we van elkaar konden leren en elkaars sterke punten konden benutten. Het proces van het samenstellen van een computer gaf me een goed inzicht in hoe de verschillende componenten samenwerken om een functionerend systeem te vormen. Dit praktische element maakte de opdracht zowel leerzaam als leuk.
+
+Beste prestaties van mijn opdrachten
+
+Hoewel alle opdrachten leerzaam waren, zijn er twee waar ik bijzonder trots op ben:
+
+1. Planning en zelfsturing
+
+Ik heb gemerkt dat ik goed ben in het inschatten van welke taken prioriteit hebben en welke minder belangrijk zijn. Hierdoor kon ik mijn werk effectief plannen en mijn deadlines halen. Het maken van een duidelijke agenda en het nauwgezet volgen daarvan was voor mij een waardevolle vaardigheid die ik in deze opdracht verder heb ontwikkeld.
+
+2. Computerbouwen
+
+Deze opdracht was een succes dankzij de goede taakverdeling binnen onze groep. We werkten effectief samen en zorgden ervoor dat iedereen een specifieke rol had. Dit resulteerde in een vlotte uitvoering en een goed eindresultaat. Het samenwerken heeft me ook geholpen mijn communicatie- en teamvaardigheden verder te verbeteren.
+
+Conclusie
+
+De opdrachten die we tijdens dit semester hebben uitgevoerd, hebben me niet alleen geholpen om technische vaardigheden op te doen, maar ook om belangrijke soft skills zoals planning, samenwerken en kritisch denken verder te ontwikkelen. Vooral de praktische en groepsgerichte opdrachten, zoals Computerbouwen, hebben een blijvende indruk op me gemaakt. Ik kijk ernaar uit om deze vaardigheden verder te verfijnen in de komende semesters.
+
+
+
 
 ## Opdrachten WPL 2
 
