@@ -43,7 +43,7 @@ Hoewel alle opdrachten leerzaam waren, zijn er twee waar ik bijzonder trots op b
 
 Ik heb gemerkt dat ik goed ben in het inschatten van welke taken prioriteit hebben en welke minder belangrijk zijn. Hierdoor kon ik mijn werk effectief plannen en mijn deadlines halen. Het maken van een duidelijke agenda en het nauwgezet volgen daarvan was voor mij een waardevolle vaardigheid die ik in deze opdracht verder heb ontwikkeld.
 
-![Planning](images/OefeningPlanning_WPL1.png)
+![Planning](../images/OefeningPlanning_WPL1.png)
 
 2. Computerbouwen
 
