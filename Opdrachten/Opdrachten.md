@@ -30,29 +30,6 @@ Tijdens deze groepsopdracht werkten we samen om een computer in elkaar te zetten
 In deze opdracht moesten we in groepsverband een stelling analyseren en presenteren. Het omvatte zowel een schriftelijk verslag als een mondelinge presentatie. Het doel was om actuele thema’s kritisch te bespreken, onze standpunten te onderbouwen en deze op een duidelijke manier te communiceren.
 
 
-Hier is een uitgebreide en beter geformuleerde versie van je tekst:
-
-Kort overzicht van alle opdrachten
-Tijdens het semester hebben we verschillende opdrachten uitgevoerd die ons zowel technisch als persoonlijk hebben uitgedaagd. Hieronder volgt een overzicht van deze opdrachten en hun belangrijkste leerdoelen:
-
-AIM-reflectie
-In deze opdracht moesten we een reflectie maken waarin we een verband legden tussen onze eigen kernwaarden en wat we tijdens de opleiding hebben geleerd. Het hielp ons om bewust te worden van onze persoonlijke drijfveren en hoe deze ons richting geven in onze studie en loopbaan.
-
-Planning en zelfsturing
-Het doel van deze opdracht was om onderscheid te leren maken tussen prioriteiten en minder belangrijke taken. We leerden hoe we een effectieve planning konden opstellen en onze tijd efficiënter konden indelen. Het maken van een agenda en het volgen van deadlines stond hierbij centraal.
-
-Test Talstelsels
-Deze test richtte zich op ons begrip van talstelsels, een essentieel onderdeel van systeem- en netwerkbeheer. We moesten onze kennis van verschillende talstelsels, zoals binair, decimaal en hexadecimaal, toepassen in praktijkgerichte vragen.
-
-Carrièrekompas
-In deze opdracht reflecteerden we op onze carrièredoelen. We moesten aangeven wat we wilden bereiken in ons vakgebied en wat we verwachtten van onze professionele toekomst. Dit gaf ons de kans om een duidelijker beeld te vormen van onze ambities en de stappen die nodig zijn om deze te realiseren.
-
-Computerbouwen
-Tijdens deze groepsopdracht werkten we samen om een computer in elkaar te zetten. Dit vereiste niet alleen technische kennis, maar ook overleg en taakverdeling binnen de groep. Het was een praktische en hands-on ervaring waarin samenwerking centraal stond.
-
-Actualiteit
-In deze opdracht moesten we in groepsverband een stelling analyseren en presenteren. Het omvatte zowel een schriftelijk verslag als een mondelinge presentatie. Het doel was om actuele thema’s kritisch te bespreken, onze standpunten te onderbouwen en deze op een duidelijke manier te communiceren.
-
 Wat vond ik interessant en waarom?
 
 Van alle opdrachten vond ik Computerbouwen het meest interessant. Het was een praktische opdracht waarin we iets tastbaars konden maken. Het samenwerken in een groep was een belangrijk aspect, omdat we van elkaar konden leren en elkaars sterke punten konden benutten. Het proces van het samenstellen van een computer gaf me een goed inzicht in hoe de verschillende componenten samenwerken om een functionerend systeem te vormen. Dit praktische element maakte de opdracht zowel leerzaam als leuk.
