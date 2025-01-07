@@ -43,6 +43,8 @@ Hoewel alle opdrachten leerzaam waren, zijn er twee waar ik bijzonder trots op b
 
 Ik heb gemerkt dat ik goed ben in het inschatten van welke taken prioriteit hebben en welke minder belangrijk zijn. Hierdoor kon ik mijn werk effectief plannen en mijn deadlines halen. Het maken van een duidelijke agenda en het nauwgezet volgen daarvan was voor mij een waardevolle vaardigheid die ik in deze opdracht verder heb ontwikkeld.
 
+![Planning](images/OefeningPlanning_WPL1.png)
+
 2. Computerbouwen
 
 Deze opdracht was een succes dankzij de goede taakverdeling binnen onze groep. We werkten effectief samen en zorgden ervoor dat iedereen een specifieke rol had. Dit resulteerde in een vlotte uitvoering en een goed eindresultaat. Het samenwerken heeft me ook geholpen mijn communicatie- en teamvaardigheden verder te verbeteren.
