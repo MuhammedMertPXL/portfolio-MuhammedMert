@@ -100,15 +100,15 @@ In WPL2 hoop ik een dieper inzicht te krijgen in hoe het is om daadwerkelijk op 
 
 ## Reflectie WPL 2
 
-**Wat heb ik gedaan?
-**
+**Wat heb ik gedaan?**
+
 Tijdens WPL2 heb ik vooral gewerkt aan de installatie en configuratie van Veyon op de Windows-pc's in de klasomgeving. Het doel was om leerkrachten meer controle te geven over wat er op de schermen van leerlingen gebeurt. Ik heb geleerd hoe je software centraal kunt beheren en hoe je dit bruikbaar maakt voor niet-technische gebruikers, zoals leerkrachten. Het installeren en configureren van Veyon op meerdere pc’s tegelijk was een uitdaging, maar het is uiteindelijk goed gelukt.
 
-Samenwerking met de groep?
+**Samenwerking met de groep?**
 
 De samenwerking in ons team verliep vlot. Iedereen had een eigen taak: terwijl ik Veyon op mij nam, werkten mijn teamgenoten aan de FOG-server, PXE-boot, firewallinstellingen, en Windows Server-configuraties. We hielpen elkaar waar nodig en overlegden regelmatig om alles goed op elkaar af te stemmen.
 
-Heb ik bijgeleerd?
+**Wat heb ik bijgeleerd?**
 
 Ik heb mezelf technisch zien groeien, vooral op vlak van softwareconfiguratie, netwerkbegrip en praktisch werken in een schoolomgeving. Daarnaast heb ik ook geleerd hoe ik zaken duidelijk moet uitleggen aan mensen zonder technische achtergrond. Op vlak van soft skills ben ik gegroeid in het samenwerken, het plannen van taken en het zelfstandig oplossen van problemen.
 
