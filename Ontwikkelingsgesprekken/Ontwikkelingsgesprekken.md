@@ -49,6 +49,8 @@ Presenteren en uitleggen zijn voor mij nog een uitdaging. Hier wil ik tijdens WP
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
+Zie Opdrachten en Reflectie
+
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
