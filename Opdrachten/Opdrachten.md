@@ -58,6 +58,10 @@ De opdrachten die we tijdens dit semester hebben uitgevoerd, hebben me niet alle
 
 ## Opdrachten WPL 2
 
+In WPL2 heb ik mij vooral beziggehouden met de installatie en configuratie van Veyon op de Windows-computers in de klaslokalen. Ik zorgde ervoor dat leerkrachten op hun pc de schermen van alle leerlingen kunnen zien, blokkeren of hun eigen scherm kunnen tonen om beter les te geven. Alles werkt vlot en gebruiksvriendelijk, precies afgestemd op wat een klaslokaal nodig heeft. 
+
+Mijn teamgenoten namen andere technische taken op zich, zoals het opzetten van een FOG-server waarmee je automatisch besturingssystemen zoals Windows en Linux kunt installeren via het netwerk. Ook werd de firewall en netwerkbeveiliging goed ingesteld, zodat alles veilig en stabiel kan draaien. Samen hebben we een goed werkende en moderne IT-omgeving gebouwd die klaar is voor gebruik op school.
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
