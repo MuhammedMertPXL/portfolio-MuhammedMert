@@ -62,6 +62,10 @@ In WPL2 heb ik mij vooral beziggehouden met de installatie en configuratie van V
 
 Mijn teamgenoten namen andere technische taken op zich, zoals het opzetten van een FOG-server waarmee je automatisch besturingssystemen zoals Windows en Linux kunt installeren via het netwerk. Ook werd de firewall en netwerkbeveiliging goed ingesteld, zodat alles veilig en stabiel kan draaien. Samen hebben we een goed werkende en moderne IT-omgeving gebouwd die klaar is voor gebruik op school.
 
+**Traject uit het eindrapport**
+
+[Download het traject eindrapport als PDF](./traject_eindrapport.pdf)
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
