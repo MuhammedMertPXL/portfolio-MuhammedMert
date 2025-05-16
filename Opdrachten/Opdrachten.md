@@ -64,6 +64,7 @@ Mijn teamgenoten namen andere technische taken op zich, zoals het opzetten van e
 
 **Traject uit het eindrapport**
 
+[Bekijk het traject eindrapport (PDF)](https://github.com/MuhammedMertPXL/portfolio-MuhammedMertPXL/blob/main/Opdrachten/traject_eindrapport.pdf)
 
 ## Opdrachten WPL 3
 
