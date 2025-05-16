@@ -64,7 +64,6 @@ Mijn teamgenoten namen andere technische taken op zich, zoals het opzetten van e
 
 **Traject uit het eindrapport**
 
-<a href="traject_eindrapport.pdf" target="_blank">Download het traject eindrapport (PDF)</a>
 
 ## Opdrachten WPL 3
 
