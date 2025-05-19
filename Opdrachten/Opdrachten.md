@@ -62,6 +62,10 @@ In WPL2 heb ik mij vooral beziggehouden met de installatie en configuratie van V
 
 Mijn teamgenoten namen andere technische taken op zich, zoals het opzetten van een FOG-server waarmee je automatisch besturingssystemen zoals Windows en Linux kunt installeren via het netwerk. Ook werd de firewall en netwerkbeveiliging goed ingesteld, zodat alles veilig en stabiel kan draaien. Samen hebben we een goed werkende en moderne IT-omgeving gebouwd die klaar is voor gebruik op school.
 
+**Eindpresentatie**
+
+[Klik hier om het traject eindrapport te openen (PDF)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-MuhammedMertPXL/blob/main/Opdrachten/Eind_Presentatie_Team06.pdf)
+
 **Traject uit het eindrapport**
 
 [Klik hier om het traject eindrapport te openen (PDF)](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-MuhammedMertPXL/blob/main/Opdrachten/Fragment_eindrapport.pdf)
