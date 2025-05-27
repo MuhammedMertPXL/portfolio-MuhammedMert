@@ -64,7 +64,7 @@ Mijn teamgenoten namen andere technische taken op zich, zoals het opzetten van e
 
 **Eindpresentatie**
 
-[Klik hier om het traject eindrapport te openen (PDF)](https://muhammedmertpxl.github.io/portfolio-MuhammedMertPXL/blob/main/Opdrachten/Eind_Presentatie_Team06.pdf)
+[Klik hier om het traject eindrapport te openen (PDF)](https://github.com/MuhammedMertPXL/portfolio-MuhammedMert/blob/main/Opdrachten/Eind_Presentatie_Team06.pdf)
 
 **Traject uit het eindrapport**
 
