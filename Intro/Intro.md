@@ -32,5 +32,5 @@ Curriculum Vitae
 
 ![alt-tekst](../images/image001.png)
 
-[CV bekijken](CV.pdf)
+[CV bekijken](./CV.pdf)
  
